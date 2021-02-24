@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "mongoUri": "mongodb+srv://AntonTrv:Whiskey_In_The_Jar@cluster0.s93b1.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "till Valhall",
+  "baseUrl": "http://localhost:5000"
+}
